@@ -1,6 +1,6 @@
 Name:		texlive-context-animation
 Version:	47085
-Release:	1
+Release:	2
 Summary:	Generate fieldstack based animation with ConTeXt
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/context-animation
