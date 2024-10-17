@@ -3,7 +3,7 @@ Version:	47085
 Release:	2
 Summary:	Generate fieldstack based animation with ConTeXt
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/context-animation
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/context-animation
 License:	gpl3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/context-animation.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/context-animation.doc.r%{version}.tar.xz
